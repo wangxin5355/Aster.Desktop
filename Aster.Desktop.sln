@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aster.Desktop.Modules", "As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aster.Desktop.Tests", "Aster.Desktop\Aster.Desktop.Tests\Aster.Desktop.Tests.csproj", "{9FCEDB4E-B612-4111-95ED-E0FA611BB5B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aster.ApiInvoker", "Aster.Invoker\Aster.ApiInvoker.csproj", "{1539DAC0-52F3-41D9-8809-F1531062D910}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9FCEDB4E-B612-4111-95ED-E0FA611BB5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FCEDB4E-B612-4111-95ED-E0FA611BB5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FCEDB4E-B612-4111-95ED-E0FA611BB5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1539DAC0-52F3-41D9-8809-F1531062D910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1539DAC0-52F3-41D9-8809-F1531062D910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1539DAC0-52F3-41D9-8809-F1531062D910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1539DAC0-52F3-41D9-8809-F1531062D910}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
